@@ -33,6 +33,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+        
      - name: SSH Singapura 6
        url: http://sg6.hideserver.xyz:81/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
@@ -40,13 +41,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-      - name: SSH Singapura 7
-       url: http://sg7.hideserver.xyz:81/
-       icon: hhttps://opentunnel.net/assets/img/bitvise-ssh.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
+
       - name: SSH Singapura 8
        url: http://sg8.hideserver.xyz:81/
        icon: hhttps://opentunnel.net/assets/img/bitvise-ssh.png
@@ -54,6 +49,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+        
         - name: SSH Singapura 9
        url: http://sg9.hideserver.xyz:81/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
