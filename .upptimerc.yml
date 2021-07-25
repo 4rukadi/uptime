@@ -51,7 +51,7 @@ sites:
         - 500
         
       - name: SSH 🇸🇬8 Singapura 8 Linode
-       url: http://sg8.hideserver.xyz
+       url: http://sg8.hideserver.xyz:3128
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -59,7 +59,7 @@ sites:
         - 500  
         
       - name: SSH 🇸🇬9 Singapura 9 Linode
-       url: http://sg9.hideserver.xyz
+       url: http://sg9.hideserver.xyz:3128
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
