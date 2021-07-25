@@ -59,11 +59,11 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-1-singapura-1",
     "status": "up",
-    "uptime": "15.18%",
-    "uptimeDay": "15.18%",
-    "uptimeWeek": "15.18%",
-    "uptimeMonth": "15.18%",
-    "uptimeYear": "15.18%",
+    "uptime": "18.38%",
+    "uptimeDay": "18.38%",
+    "uptimeWeek": "18.38%",
+    "uptimeMonth": "18.38%",
+    "uptimeYear": "18.38%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
@@ -79,11 +79,11 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-2-singapura-2",
     "status": "up",
-    "uptime": "6.36%",
-    "uptimeDay": "6.36%",
-    "uptimeWeek": "6.36%",
-    "uptimeMonth": "6.36%",
-    "uptimeYear": "6.36%",
+    "uptime": "9.90%",
+    "uptimeDay": "9.90%",
+    "uptimeWeek": "9.90%",
+    "uptimeMonth": "9.90%",
+    "uptimeYear": "9.90%",
     "time": 465,
     "timeDay": 465,
     "timeWeek": 465,
@@ -99,11 +99,11 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-3-singapura-3",
     "status": "up",
-    "uptime": "0.84%",
-    "uptimeDay": "0.84%",
-    "uptimeWeek": "0.84%",
-    "uptimeMonth": "0.84%",
-    "uptimeYear": "0.84%",
+    "uptime": "4.59%",
+    "uptimeDay": "4.59%",
+    "uptimeWeek": "4.59%",
+    "uptimeMonth": "4.59%",
+    "uptimeYear": "4.59%",
     "time": 455,
     "timeDay": 455,
     "timeWeek": 455,
@@ -136,19 +136,19 @@
     "url": "http://sg5.hideserver.xyz:8080/",
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-5-singapura-5",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2021-07-25": 321
+      "2021-07-25": 330
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-japan",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 299
+      "2021-07-25": 311
     }
   },
   {
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 299
+      "2021-07-25": 310
     }
   },
   {
@@ -280,7 +280,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 298
+      "2021-07-25": 310
     }
   },
   {
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 281
+      "2021-07-25": 292
     }
   },
   {
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 280
+      "2021-07-25": 292
     }
   }
 ]
