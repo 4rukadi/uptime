@@ -50,14 +50,6 @@ sites:
         - 400
         - 500
         
-      - name: SSH 🇸🇬8 Singapura 8 Linode
-       url: http://sg8.hideserver.xyz:3128
-       icon: https://hidessh.com/img/ssh.svg
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500  
-        
       - name: SSH 🇸🇬9 Singapura 9 Linode
        url: http://sg9.hideserver.xyz:3128
        icon: https://hidessh.com/img/ssh.svg
@@ -65,6 +57,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500   
+        
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
