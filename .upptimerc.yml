@@ -20,7 +20,7 @@ sites:
     check: "tcp-ping"
     url: http://sg4.hideserver.xyz/
     icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-    port: 88     
+    port: 81     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
