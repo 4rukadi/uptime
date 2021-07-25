@@ -16,11 +16,13 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-  - name: Server Singapura 4
-    check: "tcp-ping"
-    url: http://sg4.hideserver.xyz/
-    icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-    port: 81     
+     - name: SSH Singapura 4
+       url: http://sg4.hideserver.xyz:81/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500     
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
