@@ -6,7 +6,7 @@ repo: uptime # The name of this repository
 sites:
      - name: HideSSH Website #web
        url: https://hidessh.com/
-       icon: hhttps://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
