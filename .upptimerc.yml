@@ -20,7 +20,7 @@ sites:
         
      - name: SSH Indonesia
        url: http://id.hideserver.xyz:8080
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
@@ -28,7 +28,7 @@ sites:
 
      - name: SSH Singapura 5
        url: http://sg5.hideserver.xyz:81/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
@@ -36,15 +36,7 @@ sites:
         
      - name: SSH Singapura 6
        url: http://sg6.hideserver.xyz:81/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
-
-      - name: SSH Singapura 8
-       url: http://sg8.hideserver.xyz:3128
-       icon: hhttps://opentunnel.net/assets/img/bitvise-ssh.png
+       icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
@@ -52,7 +44,7 @@ sites:
         
         - name: SSH Singapura 9
        url: http://sg9.hideserver.xyz:3128
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
