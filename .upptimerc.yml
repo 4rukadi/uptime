@@ -6,31 +6,72 @@ repo: uptime # The name of this repository
 sites:
      - name: HideSSH Website
        url: https://hidessh.com/
-       icon: https://opentunnel.net/favicon.ico
+       icon: hhttps://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
      - name: HideSSH blog
        url: https://hidessh.com/blog/
-       icon: https://opentunnel.net/favicon.ico
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-     - name: SSH Singapura 4
-       url: http://sg4.hideserver.xyz:81/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+     - name: SSH Indonesia
+       url: http://id.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
-        - 500     
-
+        - 500  
+      - name: SSH Singapura 4
+       url: http://sg4.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH Singapura 5
+       url: http://sg5.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH Singapura 6
+       url: http://sg6.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+      - name: SSH Singapura 7
+       url: http://sg7.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+      - name: SSH Singapura 8
+       url: http://sg8.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+        - name: SSH Singapura 9
+       url: http://sg9.hideserver.xyz:81/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.hidessh.com
   # baseUrl: /your-repo-name
-  favicon: https://opentunnel.net/favicon.ico
-  logoUrl: https://opentunnel.net/favicon.ico
+  favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+  logoUrl: hhttps://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   name: HideSSH.com - Server Status
   introTitle: "Welcome to our **OpenTunnel.net** server status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
