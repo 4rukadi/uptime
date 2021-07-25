@@ -34,8 +34,8 @@ sites:
         - 400
         - 500  
         
-     - name: SSH 🇸🇬5 Singapura 7
-       url: http://sg7.hideserver.xyz:8080/
+     - name: SSH 🇸🇬5 Singapura 5
+       url: http://sg5.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -49,7 +49,53 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-                
+        
+     - name: SSH 🇸🇬7 Singapura 7
+       url: http://sg7.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+        
+     - name: SSH 🇸🇬8 Singapura 8
+       url: http://sg8.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+        
+     - name: SSH 🇸🇬8 Singapura 9
+       url: http://id.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+
+     - name: SSH japan 
+       url: http://jp.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+     - name: SSH Korea
+       url: http://kr.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+     - name: SSH Australia
+       url: http://au.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500        
+        
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -70,6 +116,11 @@ status-website:
   theme: light
   
 # Upptime also supports notifications, assigning issues, and more
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+user-agent: 4rukadi
+
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
   graphs: "0 0 * * *"
