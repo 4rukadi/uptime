@@ -42,13 +42,6 @@ sites:
         - 400
         - 500
         
-        - name: SSH Singapura 9
-       url: http://sg9.hideserver.xyz:3128
-       icon: https://hidessh.com/img/ssh.svg
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
         
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
