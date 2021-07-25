@@ -4,35 +4,58 @@ repo: uptime # The name of this repository
 
 
 sites:
-     - name: HideSSH Website
+     - name: HideSSH Website #web
        url: https://hidessh.com/
        icon: hhttps://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         
-     - name: HideSSH blog
+     - name: HideSSH blog #blog
        url: https://hidessh.com/blog/
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-        
-     - name: SSH Indonesia
+
+     - name: SSH Indonesia #indo
        url: http://id.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500  
-
-     - name: SSH 🇸🇬4 Singapura 4
+        
+     - name: SSH 🇸🇬1 Singapura 1
+       url: http://sg1.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+        
+     - name: SSH 🇸🇬2 Singapura 2
+       url: http://sg2.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500        
+     - name: SSH 🇸🇬3 Singapura 3
+       url: http://sg3.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500         
+        
+     - name: SSH 🇸🇬4 Singapura 
        url: http://sg4.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
-        - 500  
+        - 500         
         
      - name: SSH 🇸🇬5 Singapura 5
        url: http://sg5.hideserver.xyz:8080/
@@ -81,6 +104,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500  
+        
      - name: SSH Korea
        url: http://kr.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
@@ -88,6 +112,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500  
+        
      - name: SSH Australia
        url: http://au.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
@@ -95,6 +120,23 @@ sites:
        expectedStatusCodes:
         - 400
         - 500        
+
+     - name: SSH Canada
+       url: http://ca.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+        
+     - name: SSH US
+       url: http://us.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500          
+        
         
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -104,7 +146,7 @@ status-website:
   favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   logoUrl: hhttps://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   name: HideSSH.com - Server Status
-  introTitle: "Welcome to our **OpenTunnel.net** server status page. "
+  introTitle: "Welcome to our **HideSSH.com** server status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
     - title: HideSSH
@@ -112,7 +154,7 @@ status-website:
     - title: Blog
       href: https://hidessh.com/blog
     - title: Telegram
-      href: https://t.me/hidessh.com
+      href: https://t.me/hidessh
   theme: light
   
 # Upptime also supports notifications, assigning issues, and more
