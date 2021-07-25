@@ -59,11 +59,11 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-1-singapura-1",
     "status": "up",
-    "uptime": "10.39%",
-    "uptimeDay": "10.39%",
-    "uptimeWeek": "10.39%",
-    "uptimeMonth": "10.39%",
-    "uptimeYear": "10.39%",
+    "uptime": "15.18%",
+    "uptimeDay": "15.18%",
+    "uptimeWeek": "15.18%",
+    "uptimeMonth": "15.18%",
+    "uptimeYear": "15.18%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
@@ -79,11 +79,11 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-2-singapura-2",
     "status": "up",
-    "uptime": "1.06%",
-    "uptimeDay": "1.06%",
-    "uptimeWeek": "1.06%",
-    "uptimeMonth": "1.06%",
-    "uptimeYear": "1.06%",
+    "uptime": "6.36%",
+    "uptimeDay": "6.36%",
+    "uptimeWeek": "6.36%",
+    "uptimeMonth": "6.36%",
+    "uptimeYear": "6.36%",
     "time": 465,
     "timeDay": 465,
     "timeWeek": 465,
@@ -98,19 +98,19 @@
     "url": "http://sg3.hideserver.xyz:8080/",
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-3-singapura-3",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
+    "time": 455,
+    "timeDay": 455,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2021-07-25": 268
+      "2021-07-25": 280
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 306
+      "2021-07-25": 321
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-japan",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 284
+      "2021-07-25": 299
     }
   },
   {
@@ -248,26 +248,6 @@
     "url": "http://kr.hideserver.xyz:8080/",
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-korea",
-    "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-07-25": 284
-    }
-  },
-  {
-    "name": "SSH Australia",
-    "url": "http://au.hideserver.xyz:8080/",
-    "icon": "https://hidessh.com/img/ssh.svg",
-    "slug": "ssh-australia",
     "status": "down",
     "uptime": "0.17%",
     "uptimeDay": "0.17%",
@@ -280,7 +260,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 283
+      "2021-07-25": 299
+    }
+  },
+  {
+    "name": "SSH Australia",
+    "url": "http://au.hideserver.xyz:8080/",
+    "icon": "https://hidessh.com/img/ssh.svg",
+    "slug": "ssh-australia",
+    "status": "down",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-07-25": 298
     }
   },
   {
@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 266
+      "2021-07-25": 281
     }
   },
   {
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-25": 265
+      "2021-07-25": 280
     }
   }
 ]
