@@ -19,29 +19,44 @@ sites:
         - 200
         
      - name: SSH Indonesia
-       url: http://id.hideserver.xyz:8080
+       url: http://id.hideserver.xyz
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500  
 
-     - name: SSH Singapura 5
-       url: http://sg5.hideserver.xyz:81/
+     - name: SSH 🇸🇬4 Singapura 4
+       url: http://sg4.hideserver.xyz
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+        
+     - name: SSH 🇸🇬5 Singapura 5
+       url: http://sg5.hideserver.xyz
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
         
-     - name: SSH Singapura 6
-       url: http://sg6.hideserver.xyz:81/
+     - name: SSH 🇸🇬6 Singapura 6
+       url: http://sg6.hideserver.xyz
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
         
+      - name: SSH 🇸🇬7 Singapura 7
+       url: http://sg7.hideserver.xyz
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500   
         
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
