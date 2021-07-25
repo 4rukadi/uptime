@@ -16,7 +16,7 @@ sites:
        expectedStatusCodes:
         - 200
       - name: SSH Indonesia
-       url: http://id.hideserver.xyz:8080/
+       url: http://id.hideserver.xyz
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
