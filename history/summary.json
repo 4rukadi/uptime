@@ -41,19 +41,17 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-indonesia",
     "status": "up",
-    "uptime": "88.65%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "88.65%",
-    "uptimeMonth": "88.65%",
-    "uptimeYear": "88.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 552,
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {
-      "2021-07-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SSH 🇸🇬4 Singapura 4",
@@ -61,19 +59,17 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-4-singapura-4",
     "status": "up",
-    "uptime": "12.61%",
-    "uptimeDay": "12.61%",
-    "uptimeWeek": "12.61%",
-    "uptimeMonth": "12.61%",
-    "uptimeYear": "12.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 452,
     "timeWeek": 452,
     "timeMonth": 452,
     "timeYear": 452,
-    "dailyMinutesDown": {
-      "2021-07-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SSH 🇸🇬5 Singapura 5",
@@ -81,11 +77,11 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-5-singapura-5",
     "status": "down",
-    "uptime": "10.44%",
-    "uptimeDay": "10.44%",
-    "uptimeWeek": "10.44%",
-    "uptimeMonth": "10.44%",
-    "uptimeYear": "10.44%",
+    "uptime": "10.18%",
+    "uptimeDay": "10.18%",
+    "uptimeWeek": "10.18%",
+    "uptimeMonth": "10.18%",
+    "uptimeYear": "10.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -101,18 +97,16 @@
     "icon": "https://hidessh.com/img/ssh.svg",
     "slug": "ssh-6-singapura-6",
     "status": "up",
-    "uptime": "2.28%",
-    "uptimeDay": "2.28%",
-    "uptimeWeek": "2.28%",
-    "uptimeMonth": "2.28%",
-    "uptimeYear": "2.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 424,
     "timeDay": 424,
     "timeWeek": 424,
     "timeMonth": 424,
     "timeYear": 424,
-    "dailyMinutesDown": {
-      "2021-07-25": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
