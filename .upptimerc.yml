@@ -15,13 +15,6 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-      - name: SSH Indonesia
-       url: http://id.hideserver.xyz
-       icon: https://hidessh.com/img/ssh.svg
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
      - name: SSH Singapore 1
        url: http://sg1.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
