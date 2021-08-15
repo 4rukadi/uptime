@@ -25,7 +25,35 @@ sites:
        expectedStatusCodes:
         - 400
         - 500  
-        
+     
+     - name: SSH Indonesia 2 #indo
+       url: http://id2.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500 
+    - name: SSH Indonesia 3 #indo
+       url: http://id3.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+    - name: SSH Indonesia 4 #indo
+       url: http://id4.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+    - name: SSH Indonesia 5 #indo
+       url: http://id5.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500     
      - name: SSH 🇸🇬1 Singapura 1
        url: http://sg1.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
@@ -89,14 +117,6 @@ sites:
         - 400
         - 500
         
-     - name: SSH 🇸🇬8 Singapura 9
-       url: http://id.hideserver.xyz:8080/
-       icon: https://hidessh.com/img/ssh.svg
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500  
-
      - name: SSH japan 
        url: http://jp.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
