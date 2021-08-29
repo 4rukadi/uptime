@@ -1,7 +1,7 @@
 url: http://id2.hideserver.xyz:8080/
-status: degraded
+status: up
 code: 400
-responseTime: 7889
-lastUpdated: 2021-08-29T13:53:03.522Z
+responseTime: 1735
+lastUpdated: 2021-08-29T14:10:09.778Z
 startTime: Sun Aug 15 2021 17:03:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
