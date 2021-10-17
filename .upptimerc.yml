@@ -159,7 +159,7 @@ status-website:
   favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   logoUrl: hhttps://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   name: HideSSH.com - Server Status
-  introTitle: "Welcome to our **OpenTunnel.net** server status page. "
+  introTitle: "Welcome to our **HideSSH** server status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
     - title: HideSSH
