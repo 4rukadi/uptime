@@ -141,7 +141,7 @@ sites:
         - 400
         - 500          
    
-    - name: OpenVPN 🇸🇬4 Singapura 4
+    - name: OpenVPN Singapura 4
        url: http://sg4.hideserver.xyz:8080/
        icon: https://hidessh.com/img/openvpn.svg
        maxResponseTime: 5000
@@ -149,7 +149,7 @@ sites:
         - 400
         - 500  
         
-     - name: OpenVPN 🇸🇬5 Singapura 5
+     - name: OpenVPN Singapura 5
        url: http://sg5.hideserver.xyz:8080/
        icon: https://hidessh.com/img/openvpn.svg
        maxResponseTime: 5000
