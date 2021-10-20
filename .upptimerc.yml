@@ -141,7 +141,6 @@ sites:
         - 400
         - 500          
    
-#service openvpn
     - name: OpenVPN 🇸🇬4 Singapura 4
        url: http://sg4.hideserver.xyz:8080/
        icon: https://hidessh.com/img/openvpn.svg
