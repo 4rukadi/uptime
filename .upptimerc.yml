@@ -51,7 +51,8 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
-        - 500          
+        - 500 
+        
      - name: SSH 🇸🇬4 Singapura 4
        url: http://sg4.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
@@ -68,38 +69,30 @@ sites:
         - 400
         - 500
         
-     - name: SSH 🇸🇬6 Singapura 6
-       url: http://sg6.hideserver.xyz:8080/
+     - name: SSH 🇸🇬 Singapura 
+       url: http://sg.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
         
-     - name: SSH 🇸🇬7 Singapura 7
-       url: http://sg7.hideserver.xyz:8080/
+     - name: SSH 🇸🇬2 Singapura 2
+       url: http://sg2.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
         
-     - name: SSH 🇸🇬8 Singapura 8
-       url: http://sg8.hideserver.xyz:8080/
+     - name: SSH 🇸🇬3 Singapura 3
+       url: http://sg3.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
         
-     - name: SSH 🇸🇬8 Singapura 9
-       url: http://id.hideserver.xyz:8080/
-       icon: https://hidessh.com/img/ssh.svg
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500  
-
      - name: SSH japan 
        url: http://jp.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
@@ -110,6 +103,14 @@ sites:
         
      - name: SSH Korea
        url: http://kr.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/ssh.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+
+     - name: SSH India
+       url: http://in.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -140,16 +141,46 @@ sites:
         - 400
         - 500          
    
-   
-   
-     - name: v2ray/Vmess 🇮🇩 Indonesia 5 #indo
-       url: http://id5.hideserver.xyz:8080/
-       icon: https://hidessh.com/img/ssh.svg
+#service openvpn
+    - name: OpenVPN 🇸🇬4 Singapura 4
+       url: http://sg4.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/openvpn.svg
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500  
+        
+     - name: OpenVPN 🇸🇬5 Singapura 5
+       url: http://sg5.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/openvpn.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
 
+     - name: OpenVPN Japan 
+       url: http://jp.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/openvpn.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+        
+     - name: OpenVPN Korea
+       url: http://kr.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/openvpn.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
+    
+     - name: OpenVPN India 
+       url: http://in.hideserver.xyz:8080/
+       icon: https://hidessh.com/img/openvpn.svg
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500  
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
