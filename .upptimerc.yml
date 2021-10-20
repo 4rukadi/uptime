@@ -140,14 +140,6 @@ sites:
        expectedStatusCodes:
         - 400
         - 500          
-   
-    - name:Service OpenVPN SG 4
-       url: http://sg4.hideserver.xyz:8080/
-       icon: https://hidessh.com/img/openvpn.svg
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500  
         
      - name: OpenVPN Singapura 5
        url: http://sg5.hideserver.xyz:8080/
