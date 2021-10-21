@@ -86,7 +86,7 @@ sites:
         - 500
         
      - name: SSH 🇸🇬3 Singapura 3
-       url: http://sg3.hideserver.xyz:8080/
+       url: http://idku.hideserver.xyz:8080/
        icon: https://hidessh.com/img/ssh.svg
        maxResponseTime: 5000
        expectedStatusCodes:
